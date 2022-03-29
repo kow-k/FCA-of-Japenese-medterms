@@ -6,11 +6,11 @@ FCA applied to Japanese medical terminology
 
 ## data
 
-1. fc-X-shou-dev.xslx [Concept Explorer に与える形式文脈 fc=formal context を生成するための Excel 作業本]
-2. fc-X-shou-full-6gram-sorted.csv ["X症" 全425事例の fc (csv形式)]
-3. fc-X-shou-set0-6gram-sorted.csv ["X症" sample0 68事例の fc (csv形式)]
-4. fc-X-shou-set1-6gram-sorted.csv ["X症" sample1 118事例の fc (csv形式)]
-5. fc-X-shou-set2-6gram-sorted.csv ["X症" sample2 207事例の fc (csv形式)]
+1. [fc-X-shou-dev.xlsx](data/fc-X-shou-dev.xlsx) [Concept Explorer に与える形式文脈 fc=formal context を生成するための Excel 作業本]
+2. [fc-X-shou-full-6gram-sorted.csv](data/fc-X-shou-full-6gram.csv) ["X症" の全425事例の fc (csv形式)]
+3. [fc-X-shou-set0-6gram-sorted.csv](data/fc-X-shou-set0-6gram.csv) ["X症" のsample0 68事例の fc (csv形式)]
+4. [fc-X-shou-set1-6gram-sorted.csv](data/fc-X-shou-set1-6gram.csv) ["X症" のsample1 118事例の fc (csv形式)]
+5. [fc-X-shou-set2-6gram-sorted.csv](data/fc-X-shou-set2-6gram.csv) ["X症" のsample2 207事例の fc (csv形式)]
 
 ## poster
 
