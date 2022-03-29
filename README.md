@@ -1,6 +1,6 @@
 # FCA-on-medterms
 
-FCA applied to Japanese medical terminology
+Formal context files fed to Concept Explorer to apply FCA to Japanese medical terminology
 
 2022年3月に実施された言語処理学会28回年次大会 (NLP28/2022) のPH1-1の発表「医療用語の is-a オントロジー構築の　FCA を使った効率化」で使ったデータの公開
 
